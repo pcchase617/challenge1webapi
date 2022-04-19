@@ -11,25 +11,25 @@ var questions = [
     answer: "Silent"
   },
   {
-    title: "Arrays in JavaScript can be used to store ____.",
+    title: "What is the United States National Sport?",
     choices: [
-      "numbers and strings",
-      "other arrays",
-      "booleans",
-      "all of the above"
+      "Football",
+      "Baseball",
+      "Soccer",
+      "Skiing"
     ],
-    answer: "all of the above"
+    answer: "Baseball"
   },
   {
     title:
-      "String values must be enclosed within ____ when being assigned to variables.",
-    choices: ["commas", "curly brackets", "quotes", "parentheses"],
-    answer: "quotes"
+      "How many states are in the US?",
+    choices: ["48", "52", "50", "51"],
+    answer: "50"
   },
   {
     title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-    answer: "console.log"
+      "How many stripes are there on the U.S. flag?",
+    choices: ["13", "7", "15", "11"],
+    answer: "13"
   }
 ];

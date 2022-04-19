@@ -108,6 +108,7 @@ li:nth-child(even) {
 
 .endText {
   font-size: 32px;
+  color:powderblue;
 }
 
 .feedback {
