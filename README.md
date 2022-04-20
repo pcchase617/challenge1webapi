@@ -1,4 +1,4 @@
 # challenge1webapi
 
 live URL:
-https://pcchase617.github.io/challenge1webapi/
+https://pcchase617.github.io/challenge1webapi/Main/index.html
